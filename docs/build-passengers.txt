@@ -1,0 +1,14 @@
+
+> snowbound-escape@1.0.0 build
+> tsc --noEmit && vite build
+
+vite v7.3.7 building client environment for production...
+transforming...
+✓ 38 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.77 kB │ gzip:   1.20 kB
+dist/assets/index-BcRQpUju.css   22.08 kB │ gzip:   5.69 kB
+dist/assets/index-DvvTp9fJ.js    93.54 kB │ gzip:  36.29 kB
+dist/assets/three-Da5ur4yK.js   522.07 kB │ gzip: 133.65 kB
+✓ built in 1.12s

@@ -1,0 +1,948 @@
+{
+  "samples": [
+    {
+      "phase": "playing",
+      "x": 147.84583895917325,
+      "fps": 134,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 147.84583895917325,
+      "fps": 134,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 153.03694122872108,
+      "fps": 134,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 161.32743620485354,
+      "fps": 134,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 166.83374680773468,
+      "fps": 165,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 172.74840939909325,
+      "fps": 165,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 178.5081227797522,
+      "fps": 165,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 184.0908927289292,
+      "fps": 165,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 189.0908927289292,
+      "fps": 165,
+      "perfect": 3
+    },
+    {
+      "phase": "playing",
+      "x": 194.60487495046357,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 200.00098428736797,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 202.74401670444752,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 205.5174580494573,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 211.44227341564454,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 217.2116561056641,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 223.3366561056639,
+      "fps": 165,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 231.29498943899713,
+      "fps": 156,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 236.29498943899713,
+      "fps": 156,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 241.54498943899713,
+      "fps": 156,
+      "perfect": 4
+    },
+    {
+      "phase": "playing",
+      "x": 246.82954173617904,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 252.138930849861,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 255.1180550590142,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 262.3274970888379,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 265.1633193307026,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 271.2210491886633,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 275.3043825219969,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 281.4293825219973,
+      "fps": 156,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 289.1793825219974,
+      "fps": 136,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 294.4293825219974,
+      "fps": 136,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 299.4293825219974,
+      "fps": 136,
+      "perfect": 5
+    },
+    {
+      "phase": "playing",
+      "x": 304.7647718403617,
+      "fps": 136,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 310.12140716875786,
+      "fps": 136,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 315.9687372143057,
+      "fps": 136,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 324.66463740480356,
+      "fps": 136,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 374.0874438126462,
+      "fps": 100,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 380.2220482144754,
+      "fps": 100,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 384.2446619209176,
+      "fps": 100,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 386.27443877232776,
+      "fps": 100,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 390.55754006780387,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 396.7001624541982,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 400.81086904512784,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 405.140564090604,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 409.2768956815335,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 413.63349697700954,
+      "fps": 56,
+      "perfect": 6
+    },
+    {
+      "phase": "playing",
+      "x": 417.98771035667704,
+      "fps": 56,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 425.0411304686953,
+      "fps": 56,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 430.2422998661491,
+      "fps": 56,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 435.363197912428,
+      "fps": 56,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 440.91118667301555,
+      "fps": 56,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 443.6143324870458,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 446.6247920085325,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 451.54145867519924,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 458.77479200853304,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 463.4414586752,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 468.108125341867,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 473.0081253418673,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 477.67479200853427,
+      "fps": 165,
+      "perfect": 7
+    },
+    {
+      "phase": "playing",
+      "x": 483.7767507863756,
+      "fps": 165,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 488.78520116146933,
+      "fps": 165,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 494.2412249478148,
+      "fps": 165,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 499.6215749543813,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 502.36882651089576,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 507.8688265108953,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 513.6438265108949,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 519.0188265108945,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 523.9188265108949,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 530.9188265108953,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 535.5854931775623,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 540.4850648416889,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 545.1506218345694,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 550.0506218345697,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 557.0506218345702,
+      "fps": 146,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 561.9506218345705,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 561.9506218345705,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 568.9506218345709,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 573.6172885012379,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 578.5172885012382,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 583.1839551679052,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 588.3172885012389,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 593.2172885012392,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 595.783955167906,
+      "fps": 158,
+      "perfect": 8
+    },
+    {
+      "phase": "playing",
+      "x": 601.4994989581068,
+      "fps": 158,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 603.9986812880098,
+      "fps": 158,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 609.0935546497674,
+      "fps": 158,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 614.5762081379461,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 622.6449765139155,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 628.1418111737989,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 633.9168111737985,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 638.6251445071321,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 643.5251445071324,
+      "fps": 146,
+      "perfect": 9
+    },
+    {
+      "phase": "playing",
+      "x": 648.4542071308298,
+      "fps": 146,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 653.820386549817,
+      "fps": 146,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 659.3569812162818,
+      "fps": 146,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 664.7867059258523,
+      "fps": 146,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 668.361705925852,
+      "fps": 146,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 676.8867059258513,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 676.8867059258513,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 679.5533725925178,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 684.2200392591848,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 689.1200392591851,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 693.7867059258521,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 696.5867059258522,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 701.2533725925192,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 705.9200392591862,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 713.15337259252,
+      "fps": 145,
+      "perfect": 10
+    },
+    {
+      "phase": "playing",
+      "x": 718.0832763440993,
+      "fps": 145,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 723.1917368462565,
+      "fps": 145,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 728.7204836489556,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 734.1386776618774,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 736.8884236548544,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 742.3884236548539,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 750.5800903215202,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 755.2467569881871,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 760.1467569881875,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 764.8134236548544,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 769.7134236548548,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 774.3787568139546,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 779.0192065643464,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 786.1768287053794,
+      "fps": 144,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 790.8340088984348,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 795.5006755651018,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 798.0673422317686,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 802.7340088984356,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 805.7673422317691,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 812.7673422317696,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 817.4340088984366,
+      "fps": 165,
+      "perfect": 11
+    },
+    {
+      "phase": "playing",
+      "x": 822.3796270687174,
+      "fps": 165,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 827.3490436556299,
+      "fps": 165,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 832.7194231502491,
+      "fps": 165,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 835.3330700677888,
+      "fps": 165,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 840.9268146167118,
+      "fps": 165,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 846.3798999856814,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 852.1548999856809,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 859.7798999856808,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 864.4465666523478,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 869.3465666523481,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 874.0132333190151,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 878.9132333190154,
+      "fps": 155,
+      "perfect": 12
+    },
+    {
+      "phase": "playing",
+      "x": 883.8640400989298,
+      "fps": 155,
+      "perfect": 13
+    },
+    {
+      "phase": "playing",
+      "x": 891.7703815671966,
+      "fps": 155,
+      "perfect": 13
+    },
+    {
+      "phase": "playing",
+      "x": 897.5433238626262,
+      "fps": 155,
+      "perfect": 13
+    },
+    {
+      "phase": "won",
+      "x": 900.018323862626,
+      "fps": 155,
+      "perfect": 13
+    }
+  ],
+  "result": {
+    "phase": "won",
+    "tutorialStep": 0,
+    "mode": "challenge",
+    "player": {
+      "x": 900.018323862626,
+      "y": -65.13096612893723,
+      "vx": 33,
+      "vy": -9.051475572734589,
+      "angle": -0.27672916525175706,
+      "omega": 0,
+      "grounded": true,
+      "route": "upper",
+      "airTime": 0,
+      "airRotation": 0,
+      "fall": 0,
+      "protection": 0,
+      "ride": "ski",
+      "rideTime": 0,
+      "ability": 0,
+      "cooldown": 0,
+      "boost": 0.45000000000000207,
+      "pose": 0,
+      "lastLanding": "perfect",
+      "landingAge": 0.6500000000000001
+    },
+    "stats": {
+      "abilities": 0,
+      "distance": 900.018323862626,
+      "score": 4785.004580965723,
+      "coins": 57,
+      "flips": 0,
+      "perfect": 13,
+      "perfectStreak": 2,
+      "bestStreak": 6,
+      "crashes": 0,
+      "combo": 13,
+      "bestCombo": 13,
+      "comboTime": 6.341666666666634,
+      "rides": 1,
+      "rideDistance": {
+        "ski": 628.0093371419541,
+        "otter": 272.0089867206718,
+        "yak": 0,
+        "owl": 0,
+        "bike": 0,
+        "sail": 0
+      },
+      "branches": 1,
+      "dangerTime": 0,
+      "speedTime": 27.93333333333239,
+      "vehicleCoins": 0,
+      "jumps": 16
+    },
+    "gap": 478.24255641329347,
+    "elapsed": 31.299999999998864,
+    "seed": 1751970,
+    "fps": 165,
+    "draws": 78,
+    "triangles": 28068,
+    "landingFeedback": {
+      "visible": false,
+      "remaining": 0,
+      "opacity": 0
+    },
+    "loadedEntities": 113,
+    "memoryGeometries": 31,
+    "nextObstacles": [
+      {
+        "x": 938,
+        "y": -70.27268838183504,
+        "kind": "rock"
+      },
+      {
+        "x": 1002,
+        "y": -75.36674903881041,
+        "kind": "fence"
+      },
+      {
+        "x": 1094,
+        "y": -83.81167018454191,
+        "kind": "fence"
+      },
+      {
+        "x": 1178,
+        "y": -87.09568619778597,
+        "kind": "fence"
+      }
+    ],
+    "branch": -65.13096612893723,
+    "saved": 6005.152677507625
+  }
+}

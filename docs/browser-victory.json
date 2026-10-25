@@ -1,0 +1,87 @@
+{
+  "phase": "won",
+  "tutorialStep": 0,
+  "mode": "adventure",
+  "player": {
+    "x": 18000.246013793036,
+    "y": -1328.0038069804498,
+    "vx": 32,
+    "vy": -5.550000000000003,
+    "angle": -0.1107319875268586,
+    "omega": -0.05472187707644009,
+    "grounded": false,
+    "route": "main",
+    "airTime": 3.441666666666657,
+    "airRotation": 0,
+    "fall": 0,
+    "protection": 0,
+    "ride": "sail",
+    "rideTime": 20.991666666666895,
+    "ability": 0,
+    "cooldown": 2.058333333333241,
+    "boost": 0,
+    "pose": 0,
+    "lastLanding": "perfect",
+    "landingAge": 5.175000000000047
+  },
+  "stats": {
+    "abilities": 54,
+    "distance": 18000.246013793036,
+    "score": 72595.061503443,
+    "coins": 1193,
+    "flips": 0,
+    "perfect": 188,
+    "perfectStreak": 2,
+    "bestStreak": 22,
+    "crashes": 21,
+    "combo": 20,
+    "bestCombo": 31,
+    "comboTime": 1.8166666666665257,
+    "rides": 30,
+    "rideDistance": {
+      "ski": 8261.11002107368,
+      "otter": 712.154580123417,
+      "yak": 3511.5695351723084,
+      "owl": 1776.0808946776924,
+      "bike": 1727.8208110372534,
+      "sail": 2011.5101717086843
+    },
+    "branches": 16,
+    "dangerTime": 0,
+    "speedTime": 509.5249999997009,
+    "vehicleCoins": 138,
+    "jumps": 228
+  },
+  "gap": 1543.4926804657043,
+  "elapsed": 620.0749999996004,
+  "seed": 1705730,
+  "fps": 165,
+  "draws": 97,
+  "triangles": 27304,
+  "loadedEntities": 112,
+  "memoryGeometries": 38,
+  "nextObstacles": [
+    {
+      "x": 18042,
+      "y": -1349.226908944487,
+      "kind": "rock"
+    },
+    {
+      "x": 18134,
+      "y": -1357.1906323062365,
+      "kind": "log"
+    },
+    {
+      "x": 18176,
+      "y": -1360.5267949054455,
+      "kind": "fence"
+    },
+    {
+      "x": 18218,
+      "y": -1365.5449460853365,
+      "kind": "rock"
+    }
+  ],
+  "branch": null,
+  "saved": null
+}

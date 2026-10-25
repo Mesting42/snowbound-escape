@@ -1,0 +1,201 @@
+{
+  "samples": [
+    {
+      "phase": "playing",
+      "x": 1243,
+      "elapsed": 41,
+      "gap": 619,
+      "fps": 163,
+      "minFps": 60,
+      "crashes": 1,
+      "branches": 2,
+      "rides": 2,
+      "geometries": 29,
+      "entities": 125
+    },
+    {
+      "phase": "playing",
+      "x": 2648,
+      "elapsed": 86,
+      "gap": 1004,
+      "fps": 165,
+      "minFps": 101,
+      "crashes": 1,
+      "branches": 5,
+      "rides": 4,
+      "geometries": 30,
+      "entities": 132
+    },
+    {
+      "phase": "playing",
+      "x": 4107,
+      "elapsed": 135,
+      "gap": 1330,
+      "fps": 164,
+      "minFps": 164,
+      "crashes": 2,
+      "branches": 8,
+      "rides": 6,
+      "geometries": 31,
+      "entities": 130
+    },
+    {
+      "phase": "playing",
+      "x": 5779,
+      "elapsed": 183,
+      "gap": 1821,
+      "fps": 165,
+      "minFps": 51,
+      "crashes": 2,
+      "branches": 12,
+      "rides": 7,
+      "geometries": 31,
+      "entities": 133
+    },
+    {
+      "phase": "playing",
+      "x": 8287,
+      "elapsed": 272,
+      "gap": 2027,
+      "fps": 165,
+      "minFps": 163,
+      "crashes": 6,
+      "branches": 17,
+      "rides": 11,
+      "geometries": 58,
+      "entities": 119
+    },
+    {
+      "phase": "playing",
+      "x": 9957,
+      "elapsed": 320,
+      "gap": 2361,
+      "fps": 165,
+      "minFps": 160,
+      "crashes": 6,
+      "branches": 19,
+      "rides": 13,
+      "geometries": 55,
+      "entities": 126
+    },
+    {
+      "phase": "playing",
+      "x": 11386,
+      "elapsed": 369,
+      "gap": 2407,
+      "fps": 164,
+      "minFps": 163,
+      "crashes": 8,
+      "branches": 20,
+      "rides": 15,
+      "geometries": 57,
+      "entities": 128
+    },
+    {
+      "phase": "paused",
+      "x": 11386,
+      "elapsed": 369,
+      "gap": 2407,
+      "fps": 133,
+      "minFps": 133,
+      "crashes": 8,
+      "branches": 20,
+      "rides": 15,
+      "geometries": 58,
+      "entities": 128
+    }
+  ],
+  "seenRides": [
+    "ski",
+    "otter",
+    "owl",
+    "yak",
+    "bike"
+  ],
+  "final": {
+    "phase": "lost",
+    "mode": "adventure",
+    "player": {
+      "x": 15428.156643205692,
+      "y": -1149.9909649923688,
+      "vx": 13.73246593439993,
+      "vy": -1.537823997797367,
+      "angle": -0.10091172569771491,
+      "omega": 0,
+      "grounded": true,
+      "route": "main",
+      "airTime": 0,
+      "airRotation": 0,
+      "fall": 0,
+      "protection": 1.34166666666667,
+      "ride": "ski",
+      "rideTime": 0,
+      "ability": 0,
+      "cooldown": 0,
+      "boost": 0,
+      "pose": 0,
+      "lastLanding": "perfect",
+      "landingAge": 216.4583333333008
+    },
+    "stats": {
+      "distance": 15428.156643205692,
+      "score": 73202.03916079798,
+      "coins": 1218,
+      "flips": 0,
+      "perfect": 149,
+      "perfectStreak": 0,
+      "bestStreak": 26,
+      "crashes": 39,
+      "combo": 0,
+      "bestCombo": 49,
+      "comboTime": 0,
+      "rides": 23,
+      "rideDistance": {
+        "ski": 6624.251267568765,
+        "otter": 3867.3747788484916,
+        "yak": 2192.3756411290597,
+        "owl": 380.0169548884862,
+        "bike": 2332.0244613918294,
+        "sail": 32.11353937905915
+      },
+      "branches": 21,
+      "dangerTime": 0,
+      "speedTime": 381.6666666664839,
+      "vehicleCoins": 177,
+      "jumps": 161
+    },
+    "gap": 1.9866432102844556,
+    "elapsed": 585.4916666662986,
+    "seed": 2989285,
+    "fps": 165,
+    "draws": 117,
+    "triangles": 35276,
+    "loadedEntities": 129,
+    "memoryGeometries": 34,
+    "nextObstacles": [
+      {
+        "x": 15494,
+        "y": -1155.0354039727226,
+        "kind": "log"
+      },
+      {
+        "x": 15536,
+        "y": -1158.0445909856828,
+        "kind": "arch"
+      },
+      {
+        "x": 15578,
+        "y": -1160.410403736399,
+        "kind": "rock"
+      },
+      {
+        "x": 15642,
+        "y": -1165.6302861097786,
+        "kind": "ice"
+      }
+    ],
+    "branch": null,
+    "saved": null
+  },
+  "note": "首轮15.4公里失利；暂停恢复验证后曾未保持操作，后续以最终构建重新完整实玩。"
+}

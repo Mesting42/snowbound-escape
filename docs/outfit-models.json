@@ -1,0 +1,210 @@
+[
+  {
+    "outfit": "sunrise",
+    "pose": "side",
+    "meshes": 70,
+    "triangles": 17392,
+    "buffers": 64,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "sunrise",
+    "pose": "front",
+    "meshes": 66,
+    "triangles": 16864,
+    "buffers": 60,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "sunrise",
+    "pose": "back",
+    "meshes": 66,
+    "triangles": 16864,
+    "buffers": 60,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "sunrise",
+    "pose": "ride",
+    "meshes": 72,
+    "triangles": 17680,
+    "buffers": 72,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "forest",
+    "pose": "side",
+    "meshes": 72,
+    "triangles": 17404,
+    "buffers": 66,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "forest",
+    "pose": "front",
+    "meshes": 68,
+    "triangles": 16876,
+    "buffers": 62,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "forest",
+    "pose": "back",
+    "meshes": 68,
+    "triangles": 16876,
+    "buffers": 62,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "forest",
+    "pose": "ride",
+    "meshes": 70,
+    "triangles": 16604,
+    "buffers": 70,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "glacier",
+    "pose": "side",
+    "meshes": 78,
+    "triangles": 18016,
+    "buffers": 72,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "glacier",
+    "pose": "front",
+    "meshes": 74,
+    "triangles": 17488,
+    "buffers": 68,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "glacier",
+    "pose": "back",
+    "meshes": 74,
+    "triangles": 17488,
+    "buffers": 68,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "glacier",
+    "pose": "ride",
+    "meshes": 80,
+    "triangles": 18304,
+    "buffers": 80,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "dusk",
+    "pose": "side",
+    "meshes": 74,
+    "triangles": 21256,
+    "buffers": 68,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "dusk",
+    "pose": "front",
+    "meshes": 70,
+    "triangles": 20728,
+    "buffers": 64,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "dusk",
+    "pose": "back",
+    "meshes": 70,
+    "triangles": 20728,
+    "buffers": 64,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  },
+  {
+    "outfit": "dusk",
+    "pose": "ride",
+    "meshes": 72,
+    "triangles": 20456,
+    "buffers": 72,
+    "rootScale": [
+      1,
+      1,
+      1
+    ],
+    "source": "offline-geometry-only"
+  }
+]

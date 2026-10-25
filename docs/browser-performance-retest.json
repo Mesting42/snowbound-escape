@@ -1,0 +1,1664 @@
+{
+  "samples": [
+    {
+      "phase": "menu",
+      "x": 0,
+      "fps": 60,
+      "elapsed": 0,
+      "draws": 76,
+      "triangles": 27348
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 60,
+      "elapsed": 0,
+      "draws": 109,
+      "triangles": 32288
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 139,
+      "elapsed": 0,
+      "draws": 125,
+      "triangles": 34136
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 165,
+      "elapsed": 0,
+      "draws": 126,
+      "triangles": 34184
+    },
+    {
+      "phase": "intro",
+      "x": 0,
+      "fps": 165,
+      "elapsed": 0,
+      "draws": 126,
+      "triangles": 34184
+    },
+    {
+      "phase": "playing",
+      "x": 0.6681568945816607,
+      "fps": 165,
+      "elapsed": 0.041666666666666664,
+      "draws": 126,
+      "triangles": 34184
+    },
+    {
+      "phase": "playing",
+      "x": 3.3653999166529975,
+      "fps": 165,
+      "elapsed": 0.20833333333333331,
+      "draws": 127,
+      "triangles": 34436
+    },
+    {
+      "phase": "playing",
+      "x": 7.622677597969268,
+      "fps": 165,
+      "elapsed": 0.4666666666666673,
+      "draws": 130,
+      "triangles": 35192
+    },
+    {
+      "phase": "playing",
+      "x": 10.417897748764501,
+      "fps": 165,
+      "elapsed": 0.6333333333333335,
+      "draws": 128,
+      "triangles": 34688
+    },
+    {
+      "phase": "playing",
+      "x": 13.393473257651836,
+      "fps": 165,
+      "elapsed": 0.8083333333333329,
+      "draws": 124,
+      "triangles": 34416
+    },
+    {
+      "phase": "playing",
+      "x": 15.112411176145715,
+      "fps": 165,
+      "elapsed": 0.9083333333333325,
+      "draws": 122,
+      "triangles": 34396
+    },
+    {
+      "phase": "playing",
+      "x": 19.469030350999716,
+      "fps": 165,
+      "elapsed": 1.1583333333333317,
+      "draws": 120,
+      "triangles": 33668
+    },
+    {
+      "phase": "playing",
+      "x": 20.94013692974753,
+      "fps": 165,
+      "elapsed": 1.2416666666666647,
+      "draws": 117,
+      "triangles": 33396
+    },
+    {
+      "phase": "playing",
+      "x": 24.65965617246087,
+      "fps": 165,
+      "elapsed": 1.4499999999999973,
+      "draws": 116,
+      "triangles": 33628
+    },
+    {
+      "phase": "playing",
+      "x": 27.678736431018134,
+      "fps": 136,
+      "elapsed": 1.6166666666666634,
+      "draws": 112,
+      "triangles": 33584
+    },
+    {
+      "phase": "playing",
+      "x": 30.891100338057154,
+      "fps": 136,
+      "elapsed": 1.7916666666666627,
+      "draws": 98,
+      "triangles": 32004
+    },
+    {
+      "phase": "playing",
+      "x": 32.43628449284928,
+      "fps": 136,
+      "elapsed": 1.8749999999999958,
+      "draws": 93,
+      "triangles": 31944
+    },
+    {
+      "phase": "playing",
+      "x": 33.98772957311976,
+      "fps": 136,
+      "elapsed": 1.9583333333333288,
+      "draws": 92,
+      "triangles": 31692
+    },
+    {
+      "phase": "playing",
+      "x": 37.25593611668776,
+      "fps": 136,
+      "elapsed": 2.1333333333333284,
+      "draws": 92,
+      "triangles": 31692
+    },
+    {
+      "phase": "playing",
+      "x": 40.38132627722871,
+      "fps": 136,
+      "elapsed": 2.2999999999999945,
+      "draws": 92,
+      "triangles": 31208
+    },
+    {
+      "phase": "playing",
+      "x": 45.092849018040134,
+      "fps": 136,
+      "elapsed": 2.5499999999999936,
+      "draws": 98,
+      "triangles": 31752
+    },
+    {
+      "phase": "playing",
+      "x": 48.407649311608125,
+      "fps": 136,
+      "elapsed": 2.724999999999993,
+      "draws": 96,
+      "triangles": 31484
+    },
+    {
+      "phase": "playing",
+      "x": 51.57741447214907,
+      "fps": 136,
+      "elapsed": 2.891666666666659,
+      "draws": 87,
+      "triangles": 30196
+    },
+    {
+      "phase": "playing",
+      "x": 54.91912101571707,
+      "fps": 136,
+      "elapsed": 3.0666666666666584,
+      "draws": 84,
+      "triangles": 29916
+    },
+    {
+      "phase": "playing",
+      "x": 58.41971710516449,
+      "fps": 136,
+      "elapsed": 3.241666666666658,
+      "draws": 83,
+      "triangles": 29008
+    },
+    {
+      "phase": "playing",
+      "x": 63.74131858908362,
+      "fps": 136,
+      "elapsed": 3.491666666666657,
+      "draws": 85,
+      "triangles": 29512
+    },
+    {
+      "phase": "playing",
+      "x": 67.65154653169331,
+      "fps": 165,
+      "elapsed": 3.6666666666666563,
+      "draws": 104,
+      "triangles": 33856
+    },
+    {
+      "phase": "playing",
+      "x": 69.58454724557689,
+      "fps": 165,
+      "elapsed": 3.7499999999999893,
+      "draws": 102,
+      "triangles": 33728
+    },
+    {
+      "phase": "playing",
+      "x": 71.96868187060012,
+      "fps": 165,
+      "elapsed": 3.849999999999989,
+      "draws": 101,
+      "triangles": 33476
+    },
+    {
+      "phase": "playing",
+      "x": 76.25405997599862,
+      "fps": 165,
+      "elapsed": 4.02499999999999,
+      "draws": 95,
+      "triangles": 32932
+    },
+    {
+      "phase": "playing",
+      "x": 80.4620738462194,
+      "fps": 165,
+      "elapsed": 4.191666666666665,
+      "draws": 95,
+      "triangles": 32648
+    },
+    {
+      "phase": "playing",
+      "x": 84.76453216088463,
+      "fps": 165,
+      "elapsed": 4.35833333333334,
+      "draws": 101,
+      "triangles": 37300
+    },
+    {
+      "phase": "playing",
+      "x": 91.68113213101566,
+      "fps": 165,
+      "elapsed": 4.6250000000000195,
+      "draws": 102,
+      "triangles": 38424
+    },
+    {
+      "phase": "playing",
+      "x": 96.02025711234756,
+      "fps": 165,
+      "elapsed": 4.7916666666666945,
+      "draws": 100,
+      "triangles": 37920
+    },
+    {
+      "phase": "playing",
+      "x": 100.37188209367946,
+      "fps": 165,
+      "elapsed": 4.9583333333333695,
+      "draws": 102,
+      "triangles": 38424
+    },
+    {
+      "phase": "playing",
+      "x": 105.00135706823409,
+      "fps": 165,
+      "elapsed": 5.133333333333378,
+      "draws": 95,
+      "triangles": 37692
+    },
+    {
+      "phase": "playing",
+      "x": 109.69561644428292,
+      "fps": 165,
+      "elapsed": 5.300000000000053,
+      "draws": 95,
+      "triangles": 38176
+    },
+    {
+      "phase": "playing",
+      "x": 114.53863294719444,
+      "fps": 165,
+      "elapsed": 5.466666666666728,
+      "draws": 93,
+      "triangles": 37672
+    },
+    {
+      "phase": "playing",
+      "x": 117.2646375746909,
+      "fps": 165,
+      "elapsed": 5.558333333333399,
+      "draws": 94,
+      "triangles": 39400
+    },
+    {
+      "phase": "playing",
+      "x": 122.32119261401479,
+      "fps": 155,
+      "elapsed": 5.725000000000074,
+      "draws": 91,
+      "triangles": 38324
+    },
+    {
+      "phase": "playing",
+      "x": 127.5013587644498,
+      "fps": 155,
+      "elapsed": 5.891666666666749,
+      "draws": 88,
+      "triangles": 35068
+    },
+    {
+      "phase": "playing",
+      "x": 133.07356968073987,
+      "fps": 155,
+      "elapsed": 6.066666666666758,
+      "draws": 88,
+      "triangles": 34584
+    },
+    {
+      "phase": "playing",
+      "x": 140.79386926775464,
+      "fps": 155,
+      "elapsed": 6.31666666666677,
+      "draws": 94,
+      "triangles": 33936
+    },
+    {
+      "phase": "playing",
+      "x": 145.8688692677548,
+      "fps": 155,
+      "elapsed": 6.491666666666779,
+      "draws": 96,
+      "triangles": 33956
+    },
+    {
+      "phase": "playing",
+      "x": 150.7022026010883,
+      "fps": 155,
+      "elapsed": 6.658333333333454,
+      "draws": 96,
+      "triangles": 33472
+    },
+    {
+      "phase": "playing",
+      "x": 155.53553593442177,
+      "fps": 155,
+      "elapsed": 6.825000000000129,
+      "draws": 98,
+      "triangles": 33600
+    },
+    {
+      "phase": "playing",
+      "x": 160.9144483280044,
+      "fps": 155,
+      "elapsed": 7.000000000000138,
+      "draws": 97,
+      "triangles": 33348
+    },
+    {
+      "phase": "playing",
+      "x": 168.84774879826114,
+      "fps": 155,
+      "elapsed": 7.25000000000015,
+      "draws": 92,
+      "triangles": 32064
+    },
+    {
+      "phase": "playing",
+      "x": 174.57196749550707,
+      "fps": 155,
+      "elapsed": 7.425000000000159,
+      "draws": 87,
+      "triangles": 31664
+    },
+    {
+      "phase": "playing",
+      "x": 180.15216626221417,
+      "fps": 165,
+      "elapsed": 7.591666666666834,
+      "draws": 83,
+      "triangles": 31624
+    },
+    {
+      "phase": "playing",
+      "x": 185.81644471820388,
+      "fps": 165,
+      "elapsed": 7.758333333333509,
+      "draws": 86,
+      "triangles": 31904
+    },
+    {
+      "phase": "playing",
+      "x": 191.72477805153719,
+      "fps": 165,
+      "elapsed": 7.933333333333517,
+      "draws": 86,
+      "triangles": 31904
+    },
+    {
+      "phase": "playing",
+      "x": 194.14144471820393,
+      "fps": 165,
+      "elapsed": 8.016666666666852,
+      "draws": 85,
+      "triangles": 31652
+    },
+    {
+      "phase": "playing",
+      "x": 198.9747780515374,
+      "fps": 165,
+      "elapsed": 8.18333333333351,
+      "draws": 86,
+      "triangles": 32612
+    },
+    {
+      "phase": "playing",
+      "x": 206.46644471820431,
+      "fps": 165,
+      "elapsed": 8.441666666666828,
+      "draws": 92,
+      "triangles": 37092
+    },
+    {
+      "phase": "playing",
+      "x": 211.2997780515378,
+      "fps": 165,
+      "elapsed": 8.608333333333485,
+      "draws": 98,
+      "triangles": 40156
+    },
+    {
+      "phase": "playing",
+      "x": 216.13311138487128,
+      "fps": 165,
+      "elapsed": 8.775000000000142,
+      "draws": 95,
+      "triangles": 39400
+    },
+    {
+      "phase": "playing",
+      "x": 221.20811138487144,
+      "fps": 165,
+      "elapsed": 8.950000000000133,
+      "draws": 99,
+      "triangles": 39440
+    },
+    {
+      "phase": "playing",
+      "x": 226.04144471820493,
+      "fps": 165,
+      "elapsed": 9.11666666666679,
+      "draws": 101,
+      "triangles": 39460
+    },
+    {
+      "phase": "playing",
+      "x": 231.1164447182051,
+      "fps": 165,
+      "elapsed": 9.29166666666678,
+      "draws": 106,
+      "triangles": 39752
+    },
+    {
+      "phase": "playing",
+      "x": 238.6799486991001,
+      "fps": 165,
+      "elapsed": 9.541666666666766,
+      "draws": 106,
+      "triangles": 39368
+    },
+    {
+      "phase": "playing",
+      "x": 243.96602563731147,
+      "fps": 165,
+      "elapsed": 9.708333333333423,
+      "draws": 110,
+      "triangles": 40124
+    },
+    {
+      "phase": "playing",
+      "x": 249.68071873701595,
+      "fps": 165,
+      "elapsed": 9.883333333333413,
+      "draws": 104,
+      "triangles": 35364
+    },
+    {
+      "phase": "playing",
+      "x": 255.28141106338,
+      "fps": 165,
+      "elapsed": 10.05000000000007,
+      "draws": 96,
+      "triangles": 34944
+    },
+    {
+      "phase": "playing",
+      "x": 258.11474439671355,
+      "fps": 165,
+      "elapsed": 10.133333333333399,
+      "draws": 93,
+      "triangles": 33964
+    },
+    {
+      "phase": "playing",
+      "x": 264.0647443967141,
+      "fps": 165,
+      "elapsed": 10.308333333333389,
+      "draws": 93,
+      "triangles": 33968
+    },
+    {
+      "phase": "playing",
+      "x": 269.6897443967146,
+      "fps": 165,
+      "elapsed": 10.475000000000046,
+      "draws": 95,
+      "triangles": 34232
+    },
+    {
+      "phase": "playing",
+      "x": 274.5230777300481,
+      "fps": 165,
+      "elapsed": 10.641666666666703,
+      "draws": 94,
+      "triangles": 33980
+    },
+    {
+      "phase": "playing",
+      "x": 282.014744396715,
+      "fps": 165,
+      "elapsed": 10.900000000000022,
+      "draws": 92,
+      "triangles": 33476
+    },
+    {
+      "phase": "playing",
+      "x": 286.8480777300485,
+      "fps": 165,
+      "elapsed": 11.066666666666679,
+      "draws": 94,
+      "triangles": 33980
+    },
+    {
+      "phase": "playing",
+      "x": 291.92307773004865,
+      "fps": 165,
+      "elapsed": 11.241666666666669,
+      "draws": 101,
+      "triangles": 34892
+    },
+    {
+      "phase": "playing",
+      "x": 294.3397443967154,
+      "fps": 165,
+      "elapsed": 11.324999999999998,
+      "draws": 100,
+      "triangles": 34156
+    },
+    {
+      "phase": "playing",
+      "x": 301.83141059903517,
+      "fps": 154,
+      "elapsed": 11.583333333333316,
+      "draws": 104,
+      "triangles": 34160
+    },
+    {
+      "phase": "playing",
+      "x": 306.66474393236865,
+      "fps": 154,
+      "elapsed": 11.749999999999973,
+      "draws": 114,
+      "triangles": 35996
+    },
+    {
+      "phase": "playing",
+      "x": 311.49807726570214,
+      "fps": 154,
+      "elapsed": 11.91666666666663,
+      "draws": 122,
+      "triangles": 37528
+    },
+    {
+      "phase": "playing",
+      "x": 316.5730772657023,
+      "fps": 154,
+      "elapsed": 12.09166666666662,
+      "draws": 116,
+      "triangles": 36740
+    },
+    {
+      "phase": "playing",
+      "x": 318.98974393236904,
+      "fps": 154,
+      "elapsed": 12.17499999999995,
+      "draws": 119,
+      "triangles": 38204
+    },
+    {
+      "phase": "playing",
+      "x": 323.8230772657025,
+      "fps": 154,
+      "elapsed": 12.341666666666606,
+      "draws": 118,
+      "triangles": 37288
+    },
+    {
+      "phase": "playing",
+      "x": 328.8980772657027,
+      "fps": 154,
+      "elapsed": 12.516666666666596,
+      "draws": 127,
+      "triangles": 41792
+    },
+    {
+      "phase": "playing",
+      "x": 334.2147439323695,
+      "fps": 154,
+      "elapsed": 12.69999999999992,
+      "draws": 129,
+      "triangles": 41812
+    },
+    {
+      "phase": "playing",
+      "x": 339.048077265703,
+      "fps": 154,
+      "elapsed": 12.866666666666577,
+      "draws": 136,
+      "triangles": 42408
+    },
+    {
+      "phase": "playing",
+      "x": 343.8814105990365,
+      "fps": 154,
+      "elapsed": 13.033333333333234,
+      "draws": 134,
+      "triangles": 42388
+    },
+    {
+      "phase": "playing",
+      "x": 348.95641059903664,
+      "fps": 154,
+      "elapsed": 13.208333333333224,
+      "draws": 130,
+      "triangles": 42828
+    },
+    {
+      "phase": "playing",
+      "x": 354.0531067349127,
+      "fps": 154,
+      "elapsed": 13.374999999999881,
+      "draws": 132,
+      "triangles": 42476
+    },
+    {
+      "phase": "playing",
+      "x": 356.67187955431774,
+      "fps": 154,
+      "elapsed": 13.45833333333321,
+      "draws": 109,
+      "triangles": 35556
+    },
+    {
+      "phase": "playing",
+      "x": 359.59259575525795,
+      "fps": 155,
+      "elapsed": 13.549999999999871,
+      "draws": 108,
+      "triangles": 35784
+    },
+    {
+      "phase": "playing",
+      "x": 362.28024021823387,
+      "fps": 155,
+      "elapsed": 13.6333333333332,
+      "draws": 106,
+      "triangles": 35764
+    },
+    {
+      "phase": "playing",
+      "x": 371.08836916642343,
+      "fps": 155,
+      "elapsed": 13.899999999999851,
+      "draws": 112,
+      "triangles": 35716
+    },
+    {
+      "phase": "playing",
+      "x": 376.73913862939963,
+      "fps": 155,
+      "elapsed": 14.066666666666508,
+      "draws": 117,
+      "triangles": 35528
+    },
+    {
+      "phase": "playing",
+      "x": 382.6891386294002,
+      "fps": 155,
+      "elapsed": 14.241666666666498,
+      "draws": 112,
+      "triangles": 34284
+    },
+    {
+      "phase": "playing",
+      "x": 387.93913862940053,
+      "fps": 155,
+      "elapsed": 14.408333333333156,
+      "draws": 112,
+      "triangles": 34524
+    },
+    {
+      "phase": "playing",
+      "x": 392.772471962734,
+      "fps": 155,
+      "elapsed": 14.574999999999813,
+      "draws": 115,
+      "triangles": 34516
+    },
+    {
+      "phase": "playing",
+      "x": 400.27539594764227,
+      "fps": 155,
+      "elapsed": 14.833333333333131,
+      "draws": 108,
+      "triangles": 34308
+    },
+    {
+      "phase": "playing",
+      "x": 405.4326927016741,
+      "fps": 155,
+      "elapsed": 14.999999999999789,
+      "draws": 105,
+      "triangles": 33044
+    },
+    {
+      "phase": "playing",
+      "x": 411.07880087070794,
+      "fps": 155,
+      "elapsed": 15.174999999999779,
+      "draws": 103,
+      "triangles": 33020
+    },
+    {
+      "phase": "playing",
+      "x": 416.68547910453947,
+      "fps": 155,
+      "elapsed": 15.341666666666436,
+      "draws": 96,
+      "triangles": 32708
+    },
+    {
+      "phase": "playing",
+      "x": 422.35214577120666,
+      "fps": 156,
+      "elapsed": 15.508333333333093,
+      "draws": 91,
+      "triangles": 32796
+    },
+    {
+      "phase": "playing",
+      "x": 431.1354791045408,
+      "fps": 156,
+      "elapsed": 15.766666666666412,
+      "draws": 88,
+      "triangles": 32764
+    },
+    {
+      "phase": "playing",
+      "x": 436.76047910454133,
+      "fps": 156,
+      "elapsed": 15.933333333333069,
+      "draws": 84,
+      "triangles": 31996
+    },
+    {
+      "phase": "playing",
+      "x": 441.8354791045415,
+      "fps": 156,
+      "elapsed": 16.10833333333306,
+      "draws": 87,
+      "triangles": 33460
+    },
+    {
+      "phase": "playing",
+      "x": 441.8354791045415,
+      "fps": 156,
+      "elapsed": 16.10833333333306,
+      "draws": 87,
+      "triangles": 33460
+    },
+    {
+      "phase": "playing",
+      "x": 444.25214577120823,
+      "fps": 156,
+      "elapsed": 16.19166666666639,
+      "draws": 94,
+      "triangles": 37284
+    },
+    {
+      "phase": "playing",
+      "x": 449.0854791045417,
+      "fps": 156,
+      "elapsed": 16.358333333333047,
+      "draws": 96,
+      "triangles": 39652
+    },
+    {
+      "phase": "playing",
+      "x": 454.6438124378752,
+      "fps": 156,
+      "elapsed": 16.549999999999702,
+      "draws": 95,
+      "triangles": 39400
+    },
+    {
+      "phase": "playing",
+      "x": 459.4771457712087,
+      "fps": 156,
+      "elapsed": 16.71666666666636,
+      "draws": 99,
+      "triangles": 39440
+    },
+    {
+      "phase": "playing",
+      "x": 464.3104791045422,
+      "fps": 156,
+      "elapsed": 16.883333333333017,
+      "draws": 101,
+      "triangles": 39460
+    },
+    {
+      "phase": "playing",
+      "x": 469.38547910454236,
+      "fps": 156,
+      "elapsed": 17.058333333333007,
+      "draws": 107,
+      "triangles": 40004
+    },
+    {
+      "phase": "playing",
+      "x": 474.21881243787584,
+      "fps": 156,
+      "elapsed": 17.224999999999664,
+      "draws": 102,
+      "triangles": 39220
+    },
+    {
+      "phase": "playing",
+      "x": 481.71047910454274,
+      "fps": 153,
+      "elapsed": 17.483333333332983,
+      "draws": 107,
+      "triangles": 39996
+    },
+    {
+      "phase": "playing",
+      "x": 486.74254779351793,
+      "fps": 153,
+      "elapsed": 17.64999999999964,
+      "draws": 105,
+      "triangles": 35820
+    },
+    {
+      "phase": "playing",
+      "x": 492.0109554404443,
+      "fps": 153,
+      "elapsed": 17.816666666666297,
+      "draws": 101,
+      "triangles": 35296
+    },
+    {
+      "phase": "playing",
+      "x": 497.731419315371,
+      "fps": 153,
+      "elapsed": 17.991666666666287,
+      "draws": 95,
+      "triangles": 34296
+    },
+    {
+      "phase": "playing",
+      "x": 497.731419315371,
+      "fps": 153,
+      "elapsed": 17.991666666666287,
+      "draws": 95,
+      "triangles": 34296
+    },
+    {
+      "phase": "playing",
+      "x": 503.33568541027995,
+      "fps": 153,
+      "elapsed": 18.158333333332944,
+      "draws": 91,
+      "triangles": 34148
+    },
+    {
+      "phase": "playing",
+      "x": 509.2856854102805,
+      "fps": 153,
+      "elapsed": 18.333333333332934,
+      "draws": 91,
+      "triangles": 34148
+    },
+    {
+      "phase": "playing",
+      "x": 516.3690187436137,
+      "fps": 153,
+      "elapsed": 18.541666666666256,
+      "draws": 88,
+      "triangles": 33876
+    },
+    {
+      "phase": "playing",
+      "x": 521.9023520769467,
+      "fps": 153,
+      "elapsed": 18.716666666666246,
+      "draws": 90,
+      "triangles": 33896
+    },
+    {
+      "phase": "playing",
+      "x": 526.7356854102802,
+      "fps": 153,
+      "elapsed": 18.883333333332903,
+      "draws": 90,
+      "triangles": 33896
+    },
+    {
+      "phase": "playing",
+      "x": 531.5690187436137,
+      "fps": 153,
+      "elapsed": 19.04999999999956,
+      "draws": 94,
+      "triangles": 33936
+    },
+    {
+      "phase": "playing",
+      "x": 536.6440187436139,
+      "fps": 153,
+      "elapsed": 19.22499999999955,
+      "draws": 93,
+      "triangles": 33200
+    },
+    {
+      "phase": "playing",
+      "x": 543.8897146403987,
+      "fps": 146,
+      "elapsed": 19.474999999999536,
+      "draws": 95,
+      "triangles": 33220
+    },
+    {
+      "phase": "playing",
+      "x": 548.9647146403988,
+      "fps": 146,
+      "elapsed": 19.649999999999526,
+      "draws": 113,
+      "triangles": 34600
+    },
+    {
+      "phase": "playing",
+      "x": 553.7980479737323,
+      "fps": 146,
+      "elapsed": 19.816666666666183,
+      "draws": 110,
+      "triangles": 34328
+    },
+    {
+      "phase": "playing",
+      "x": 558.6313813070658,
+      "fps": 146,
+      "elapsed": 19.98333333333284,
+      "draws": 108,
+      "triangles": 35016
+    },
+    {
+      "phase": "playing",
+      "x": 561.0480479737325,
+      "fps": 146,
+      "elapsed": 20.06666666666617,
+      "draws": 108,
+      "triangles": 33540
+    },
+    {
+      "phase": "playing",
+      "x": 566.1230479737327,
+      "fps": 146,
+      "elapsed": 20.24166666666616,
+      "draws": 104,
+      "triangles": 33500
+    },
+    {
+      "phase": "playing",
+      "x": 570.9563813070662,
+      "fps": 146,
+      "elapsed": 20.408333333332816,
+      "draws": 108,
+      "triangles": 36096
+    },
+    {
+      "phase": "playing",
+      "x": 576.0313813070663,
+      "fps": 146,
+      "elapsed": 20.583333333332806,
+      "draws": 109,
+      "triangles": 38772
+    },
+    {
+      "phase": "playing",
+      "x": 583.2813813070666,
+      "fps": 146,
+      "elapsed": 20.833333333332792,
+      "draws": 112,
+      "triangles": 39324
+    },
+    {
+      "phase": "playing",
+      "x": 588.1147146404,
+      "fps": 146,
+      "elapsed": 20.99999999999945,
+      "draws": 110,
+      "triangles": 39304
+    },
+    {
+      "phase": "playing",
+      "x": 593.1897146404002,
+      "fps": 146,
+      "elapsed": 21.17499999999944,
+      "draws": 110,
+      "triangles": 39304
+    },
+    {
+      "phase": "playing",
+      "x": 598.257713670459,
+      "fps": 157,
+      "elapsed": 21.341666666666097,
+      "draws": 96,
+      "triangles": 40032
+    },
+    {
+      "phase": "playing",
+      "x": 598.257713670459,
+      "fps": 157,
+      "elapsed": 21.341666666666097,
+      "draws": 96,
+      "triangles": 40032
+    },
+    {
+      "phase": "playing",
+      "x": 601.1178837655214,
+      "fps": 157,
+      "elapsed": 21.433333333332758,
+      "draws": 96,
+      "triangles": 40032
+    },
+    {
+      "phase": "playing",
+      "x": 606.4141004793554,
+      "fps": 157,
+      "elapsed": 21.599999999999415,
+      "draws": 98,
+      "triangles": 40536
+    },
+    {
+      "phase": "playing",
+      "x": 611.8339283043006,
+      "fps": 157,
+      "elapsed": 21.766666666666072,
+      "draws": 91,
+      "triangles": 35464
+    },
+    {
+      "phase": "playing",
+      "x": 620.4787742083848,
+      "fps": 157,
+      "elapsed": 22.02499999999939,
+      "draws": 95,
+      "triangles": 33984
+    },
+    {
+      "phase": "playing",
+      "x": 626.1454408750509,
+      "fps": 157,
+      "elapsed": 22.19166666666605,
+      "draws": 97,
+      "triangles": 34004
+    },
+    {
+      "phase": "playing",
+      "x": 631.7621075417172,
+      "fps": 157,
+      "elapsed": 22.36666666666604,
+      "draws": 96,
+      "triangles": 33472
+    },
+    {
+      "phase": "playing",
+      "x": 636.5954408750507,
+      "fps": 157,
+      "elapsed": 22.533333333332696,
+      "draws": 96,
+      "triangles": 33472
+    },
+    {
+      "phase": "playing",
+      "x": 643.8926653848312,
+      "fps": 157,
+      "elapsed": 22.78333333333268,
+      "draws": 96,
+      "triangles": 32104
+    },
+    {
+      "phase": "playing",
+      "x": 649.3181444871769,
+      "fps": 157,
+      "elapsed": 22.95833333333267,
+      "draws": 92,
+      "triangles": 32064
+    },
+    {
+      "phase": "playing",
+      "x": 654.6464799768842,
+      "fps": 157,
+      "elapsed": 23.12499999999933,
+      "draws": 89,
+      "triangles": 31792
+    },
+    {
+      "phase": "playing",
+      "x": 657.6445521616132,
+      "fps": 157,
+      "elapsed": 23.21666666666599,
+      "draws": 86,
+      "triangles": 31520
+    },
+    {
+      "phase": "playing",
+      "x": 663.5018308685198,
+      "fps": 156,
+      "elapsed": 23.39166666666598,
+      "draws": 85,
+      "triangles": 32408
+    },
+    {
+      "phase": "playing",
+      "x": 672.0018028625157,
+      "fps": 156,
+      "elapsed": 23.641666666665966,
+      "draws": 85,
+      "triangles": 32408
+    },
+    {
+      "phase": "playing",
+      "x": 677.951802862515,
+      "fps": 156,
+      "elapsed": 23.816666666665956,
+      "draws": 82,
+      "triangles": 31652
+    },
+    {
+      "phase": "playing",
+      "x": 677.951802862515,
+      "fps": 156,
+      "elapsed": 23.816666666665956,
+      "draws": 82,
+      "triangles": 31652
+    },
+    {
+      "phase": "playing",
+      "x": 680.5351361958483,
+      "fps": 156,
+      "elapsed": 23.899999999999284,
+      "draws": 85,
+      "triangles": 33116
+    },
+    {
+      "phase": "playing",
+      "x": 685.3684695291818,
+      "fps": 156,
+      "elapsed": 24.06666666666594,
+      "draws": 86,
+      "triangles": 34844
+    },
+    {
+      "phase": "playing",
+      "x": 690.2018028625153,
+      "fps": 156,
+      "elapsed": 24.2333333333326,
+      "draws": 86,
+      "triangles": 34844
+    },
+    {
+      "phase": "playing",
+      "x": 697.6934695291822,
+      "fps": 156,
+      "elapsed": 24.491666666665918,
+      "draws": 96,
+      "triangles": 39924
+    },
+    {
+      "phase": "playing",
+      "x": 702.5268028625156,
+      "fps": 156,
+      "elapsed": 24.658333333332575,
+      "draws": 98,
+      "triangles": 39944
+    },
+    {
+      "phase": "playing",
+      "x": 707.6018028625158,
+      "fps": 156,
+      "elapsed": 24.833333333332565,
+      "draws": 102,
+      "triangles": 39984
+    },
+    {
+      "phase": "playing",
+      "x": 712.4351361958493,
+      "fps": 156,
+      "elapsed": 24.999999999999222,
+      "draws": 102,
+      "triangles": 39500
+    },
+    {
+      "phase": "playing",
+      "x": 717.2684695291828,
+      "fps": 156,
+      "elapsed": 25.16666666666588,
+      "draws": 104,
+      "triangles": 39240
+    },
+    {
+      "phase": "playing",
+      "x": 725.2266315675374,
+      "fps": 164,
+      "elapsed": 25.424999999999198,
+      "draws": 111,
+      "triangles": 40172
+    },
+    {
+      "phase": "playing",
+      "x": 730.5821749229517,
+      "fps": 164,
+      "elapsed": 25.591666666665855,
+      "draws": 103,
+      "triangles": 33636
+    },
+    {
+      "phase": "playing",
+      "x": 736.3697488602668,
+      "fps": 164,
+      "elapsed": 25.766666666665845,
+      "draws": 98,
+      "triangles": 35072
+    },
+    {
+      "phase": "playing",
+      "x": 742.0167355416979,
+      "fps": 164,
+      "elapsed": 25.933333333332502,
+      "draws": 90,
+      "triangles": 33692
+    },
+    {
+      "phase": "playing",
+      "x": 742.0167355416979,
+      "fps": 164,
+      "elapsed": 25.933333333332502,
+      "draws": 90,
+      "triangles": 33692
+    },
+    {
+      "phase": "playing",
+      "x": 744.850068875031,
+      "fps": 164,
+      "elapsed": 26.01666666666583,
+      "draws": 93,
+      "triangles": 34212
+    },
+    {
+      "phase": "playing",
+      "x": 753.35006887503,
+      "fps": 164,
+      "elapsed": 26.266666666665817,
+      "draws": 90,
+      "triangles": 33940
+    },
+    {
+      "phase": "playing",
+      "x": 768.9417355416971,
+      "fps": 164,
+      "elapsed": 26.79999999999912,
+      "draws": 97,
+      "triangles": 34848
+    },
+    {
+      "phase": "playing",
+      "x": 787.3084022083643,
+      "fps": 90,
+      "elapsed": 27.433333333332417,
+      "draws": 100,
+      "triangles": 33152
+    },
+    {
+      "phase": "playing",
+      "x": 792.1417355416978,
+      "fps": 90,
+      "elapsed": 27.599999999999074,
+      "draws": 94,
+      "triangles": 32848
+    },
+    {
+      "phase": "playing",
+      "x": 796.9750688750313,
+      "fps": 90,
+      "elapsed": 27.76666666666573,
+      "draws": 87,
+      "triangles": 32292
+    },
+    {
+      "phase": "playing",
+      "x": 802.0500688750315,
+      "fps": 90,
+      "elapsed": 27.94166666666572,
+      "draws": 82,
+      "triangles": 31472
+    },
+    {
+      "phase": "playing",
+      "x": 806.8834022083649,
+      "fps": 90,
+      "elapsed": 28.10833333333238,
+      "draws": 79,
+      "triangles": 31440
+    },
+    {
+      "phase": "playing",
+      "x": 814.3750688750318,
+      "fps": 90,
+      "elapsed": 28.366666666665697,
+      "draws": 86,
+      "triangles": 36732
+    },
+    {
+      "phase": "playing",
+      "x": 819.2084022083653,
+      "fps": 90,
+      "elapsed": 28.533333333332354,
+      "draws": 86,
+      "triangles": 36732
+    },
+    {
+      "phase": "playing",
+      "x": 824.0417355416988,
+      "fps": 90,
+      "elapsed": 28.69999999999901,
+      "draws": 86,
+      "triangles": 36732
+    },
+    {
+      "phase": "playing",
+      "x": 829.116735541699,
+      "fps": 90,
+      "elapsed": 28.874999999999,
+      "draws": 86,
+      "triangles": 36732
+    },
+    {
+      "phase": "playing",
+      "x": 833.9500688750325,
+      "fps": 90,
+      "elapsed": 29.04166666666566,
+      "draws": 86,
+      "triangles": 36732
+    },
+    {
+      "phase": "playing",
+      "x": 838.7834022083659,
+      "fps": 163,
+      "elapsed": 29.208333333332316,
+      "draws": 87,
+      "triangles": 38460
+    },
+    {
+      "phase": "playing",
+      "x": 846.2750688750328,
+      "fps": 163,
+      "elapsed": 29.466666666665635,
+      "draws": 88,
+      "triangles": 38712
+    },
+    {
+      "phase": "playing",
+      "x": 851.1084022083663,
+      "fps": 163,
+      "elapsed": 29.633333333332292,
+      "draws": 88,
+      "triangles": 38712
+    },
+    {
+      "phase": "playing",
+      "x": 856.1834022083665,
+      "fps": 163,
+      "elapsed": 29.808333333332282,
+      "draws": 78,
+      "triangles": 33388
+    },
+    {
+      "phase": "playing",
+      "x": 861.0167355417,
+      "fps": 163,
+      "elapsed": 29.97499999999894,
+      "draws": 79,
+      "triangles": 32692
+    },
+    {
+      "phase": "playing",
+      "x": 865.6917355417003,
+      "fps": 163,
+      "elapsed": 30.141666666665596,
+      "draws": 66,
+      "triangles": 29176
+    },
+    {
+      "phase": "playing",
+      "x": 870.5917355417006,
+      "fps": 163,
+      "elapsed": 30.316666666665586,
+      "draws": 66,
+      "triangles": 29176
+    },
+    {
+      "phase": "playing",
+      "x": 875.2584022083676,
+      "fps": 163,
+      "elapsed": 30.483333333332244,
+      "draws": 70,
+      "triangles": 29224
+    },
+    {
+      "phase": "playing",
+      "x": 882.4917355417014,
+      "fps": 163,
+      "elapsed": 30.741666666665562,
+      "draws": 77,
+      "triangles": 29544
+    },
+    {
+      "phase": "playing",
+      "x": 887.1584022083683,
+      "fps": 163,
+      "elapsed": 30.90833333333222,
+      "draws": 86,
+      "triangles": 28940
+    },
+    {
+      "phase": "playing",
+      "x": 891.8250688750353,
+      "fps": 163,
+      "elapsed": 31.074999999998877,
+      "draws": 73,
+      "triangles": 27780
+    },
+    {
+      "phase": "playing",
+      "x": 896.7250688750356,
+      "fps": 165,
+      "elapsed": 31.249999999998867,
+      "draws": 86,
+      "triangles": 28632
+    },
+    {
+      "phase": "won",
+      "x": 900.0872269757208,
+      "fps": 165,
+      "elapsed": 31.37499999999886,
+      "draws": 78,
+      "triangles": 28548
+    }
+  ],
+  "result": {
+    "phase": "won",
+    "tutorialStep": 0,
+    "mode": "challenge",
+    "player": {
+      "x": 900.0872269757208,
+      "y": -67.86335327174028,
+      "vx": 22.52916832774689,
+      "vy": -5.637192582920254,
+      "angle": -0.24897188676804333,
+      "omega": 0,
+      "grounded": true,
+      "route": "upper",
+      "airTime": 0,
+      "airRotation": 0,
+      "fall": 0,
+      "protection": 1.6166666666666716,
+      "ride": "ski",
+      "rideTime": 0,
+      "ability": 0,
+      "cooldown": 0,
+      "boost": 0,
+      "pose": 0,
+      "lastLanding": "stumble",
+      "landingAge": 0.025
+    },
+    "stats": {
+      "abilities": 0,
+      "distance": 900.0872269757208,
+      "score": 3805.021806743975,
+      "coins": 61,
+      "flips": 0,
+      "perfect": 10,
+      "perfectStreak": 0,
+      "bestStreak": 4,
+      "crashes": 0,
+      "combo": 9,
+      "bestCombo": 10,
+      "comboTime": 0.8083333333331959,
+      "rides": 1,
+      "rideDistance": {
+        "ski": 139.8545287332334,
+        "otter": 0,
+        "yak": 0,
+        "owl": 760.2326982424873,
+        "bike": 0,
+        "sail": 0
+      },
+      "branches": 1,
+      "dangerTime": 0,
+      "speedTime": 27.516666666665746,
+      "vehicleCoins": 0,
+      "jumps": 13
+    },
+    "gap": 476.6909030032115,
+    "elapsed": 31.37499999999886,
+    "seed": 460010,
+    "fps": 165,
+    "draws": 84,
+    "triangles": 28128,
+    "landingFeedback": {
+      "visible": false,
+      "remaining": 0,
+      "opacity": 0
+    },
+    "loadedEntities": 113,
+    "memoryGeometries": 31,
+    "nextObstacles": [
+      {
+        "x": 938,
+        "y": -71.89202887052875,
+        "kind": "fence"
+      },
+      {
+        "x": 1002,
+        "y": -74.87635177759635,
+        "kind": "rock"
+      },
+      {
+        "x": 1094,
+        "y": -79.6501509693196,
+        "kind": "rock"
+      },
+      {
+        "x": 1178,
+        "y": -81.73066713245753,
+        "kind": "log"
+      }
+    ],
+    "branch": -67.86335327174028,
+    "saved": 6005.152677507625
+  }
+}

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no"
+    />
+    <meta name="theme-color" content="#163d4a" />
+    <meta
+      name="description"
+      content="从晨光松林到暮色雪原，一场原创的三维滑雪逃生冒险。"
+    />
+    <title>雪境疾行 · 山脚见</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <!-- THESIS: 在真实三维雪山里出发，以滑雪与逃生作为首屏内容。 OWN-WORLD: 冰川青、雪白、松林绿与围巾橙，山间旅行路牌和雪道地图。 STORY: 从营地出发，学习技巧，穿越三区并抵达避难站。 FIRST VIEWPORT: 左侧标题与出发按钮，右侧三维滑雪者、木屋和雪山。 FORM: 用户固定并确认的明亮侧视三维游戏，覆盖概念抽签 fbd66e1e；用户视觉要求优先于抽签。 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md -->
+    <canvas id="world" aria-label="雪境疾行三维游戏场景"></canvas>
+    <div id="ui"></div>
+    <div id="rotate">
+      <svg viewBox="0 0 80 60" aria-hidden="true">
+        <rect x="20" y="13" width="44" height="28" rx="4" />
+        <path d="M12 39C-1 18 19 0 38 6M32 1l7 5-6 6" />
+      </svg>
+      <h2>转过屏幕，雪道更开阔</h2>
+      <p>请横屏游玩 · 游戏已安全暂停</p>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

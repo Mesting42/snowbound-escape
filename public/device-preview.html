@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>雪境疾行 · 设备布局验证</title>
+    <style>
+      body {
+        margin: 0;
+        background: #183b46;
+        color: #edf0dd;
+        font:
+          14px "Microsoft YaHei",
+          sans-serif;
+      }
+      header {
+        padding: 16px 24px;
+        display: flex;
+        gap: 16px;
+        align-items: center;
+      }
+      button {
+        border: 0;
+        background: #e3b17b;
+        padding: 8px 15px;
+        border-radius: 5px;
+        color: #183b46;
+        font: inherit;
+        cursor: pointer;
+      }
+      span {
+        font-size: 12px;
+        color: #c9d8ce;
+      }
+      main {
+        padding: 12px 24px;
+        overflow: auto;
+      }
+      iframe {
+        border: 0;
+        box-shadow: 0 15px 40px #071a2540;
+        display: block;
+        max-width: none;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <b>设备布局验证</b><button data-size="1280,720">电脑</button
+      ><button data-size="844,390">横屏手机</button
+      ><button data-size="1180,820">横屏平板</button
+      ><button data-size="390,844">竖屏</button
+      ><span>此页面只验证布局与浏览器输入，不代表真机性能测试</span>
+    </header>
+    <main>
+      <iframe
+        id="game"
+        title="可操作的游戏预览"
+        src="/"
+        width="1280"
+        height="720"
+        allow="fullscreen"
+      ></iframe>
+    </main>
+    <script>
+      const frame = document.querySelector("iframe");
+      document.querySelectorAll("button").forEach(
+        (button) =>
+          (button.onclick = () => {
+            const [width, height] = button.dataset.size.split(",");
+            frame.width = width;
+            frame.height = height;
+          }),
+      );
+    </script>
+  </body>
+</html>

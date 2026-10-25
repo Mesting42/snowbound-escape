@@ -1,0 +1,713 @@
+[
+  {
+    "step": 1,
+    "x": 9.876945034623954,
+    "phase": "paused",
+    "flips": 0,
+    "perfect": 1,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 1,
+    "x": 20.90719024196459,
+    "phase": "playing",
+    "flips": 0,
+    "perfect": 1,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 1,
+    "x": 23.662318544546814,
+    "phase": "playing",
+    "flips": 0,
+    "perfect": 1,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 1,
+    "x": 26.70739717738726,
+    "phase": "playing",
+    "flips": 0,
+    "perfect": 1,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 1,
+    "x": 29.488775479969487,
+    "phase": "playing",
+    "flips": 0,
+    "perfect": 1,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 34.01088849064054,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 34.01088849064054,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 35.58700665858901,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 40.66982458981856,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 44.10666613147203,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 47.66711878423661,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 51.53863052797274,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 2,
+    "x": 55.349708180737316,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 2,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 61.3904286545003,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 65.55797761528738,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 69.87761903303668,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 74.6273105399134,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 79.36841650089075,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 84.2908708289503,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 89.62503740591914,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 96.75344436648115,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 101.65344436648117,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 106.32011103314785,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 110.98677769981454,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 115.88677769981456,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 122.88677769981459,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 127.7867776998146,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 132.45344436648102,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 137.12011103314742,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 142.02011103314715,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 146.68677769981355,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 153.92011103314647,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 158.58677769981287,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 163.25344436647927,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 168.153444366479,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 172.8201110331454,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 177.4867776998118,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 182.38677769981152,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 189.38677769981112,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 194.28677769981084,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 3,
+    "x": 198.95344436647724,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 4,
+    "x": 203.85719287227153,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 0
+  },
+  {
+    "step": 5,
+    "x": 208.5475980699014,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 215.85608639849312,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 220.6006617347092,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 227.77039108408678,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 232.83240844577236,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 240.8074084457726,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 245.6407417791061,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 252.89074177910632,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 257.96574177910645,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 265.2157417791067,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 270.29074177910684,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 277.54074177910707,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 282.6157417791072,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 289.86574177910745,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 294.9407417791076,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 302.19074177910784,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 309.9240751124414,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 314.9990751124416,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 317.4157417791083,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 323.69907511244185,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 328.53240844577533,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 336.02407511244223,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 340.8574084457757,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 3,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 348.43457691153617,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 353.6044668806817,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 361.8835680572001,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 370.20018447568367,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 376.14836801223896,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 384.35670134557296,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 389.4317013455731,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 396.68170134557334,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 401.7567013455735,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 406.590034678907,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 413.8400346789072,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 418.9150346789074,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 5,
+    "x": 426.1650346789076,
+    "phase": "playing",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 0,
+    "abilities": 1
+  },
+  {
+    "step": 6,
+    "x": 430.0317013455744,
+    "phase": "won",
+    "flips": 1,
+    "perfect": 4,
+    "branches": 1,
+    "abilities": 1
+  }
+]

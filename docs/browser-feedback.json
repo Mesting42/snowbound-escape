@@ -1,0 +1,94 @@
+[
+  {
+    "phase": "playing",
+    "tutorialStep": 0,
+    "mode": "challenge",
+    "player": {
+      "x": 144.53922327745207,
+      "y": -11.021416339835824,
+      "vx": 30.249605101693792,
+      "vy": -0.6479655776745687,
+      "angle": -0.02173161672030041,
+      "omega": 0,
+      "grounded": true,
+      "route": "main",
+      "airTime": 0,
+      "airRotation": 0,
+      "fall": 0,
+      "protection": 0,
+      "ride": "otter",
+      "rideTime": 22.466666666666754,
+      "ability": 0,
+      "cooldown": 0,
+      "boost": 1.0583333333333336,
+      "pose": 0,
+      "lastLanding": "perfect",
+      "landingAge": 0.041666666666666664
+    },
+    "stats": {
+      "abilities": 0,
+      "distance": 144.53922327745207,
+      "score": 556.1348058193634,
+      "coins": 4,
+      "flips": 0,
+      "perfect": 3,
+      "perfectStreak": 1,
+      "bestStreak": 2,
+      "crashes": 0,
+      "combo": 3,
+      "bestCombo": 3,
+      "comboTime": 6.9499999999999975,
+      "rides": 1,
+      "rideDistance": {
+        "ski": 100.90565068413271,
+        "otter": 43.63357259331936,
+        "yak": 0,
+        "owl": 0,
+        "bike": 0,
+        "sail": 0
+      },
+      "branches": 0,
+      "dangerTime": 0,
+      "speedTime": 3.033333333333325,
+      "vehicleCoins": 0,
+      "jumps": 4
+    },
+    "gap": 259.7610153577009,
+    "elapsed": 6.083333333333425,
+    "seed": 1751970,
+    "fps": 165,
+    "draws": 88,
+    "triangles": 32044,
+    "landingFeedback": {
+      "visible": true,
+      "remaining": 0.5516000000000004,
+      "opacity": 0.6435333333333338
+    },
+    "loadedEntities": 117,
+    "memoryGeometries": 30,
+    "nextObstacles": [
+      {
+        "x": 218,
+        "y": -11.927028509505135,
+        "kind": "fence"
+      },
+      {
+        "x": 282,
+        "y": -14.61072421487248,
+        "kind": "log"
+      },
+      {
+        "x": 374,
+        "y": -21.88290133839529,
+        "kind": "log"
+      },
+      {
+        "x": 458,
+        "y": -28.13040539410704,
+        "kind": "fence"
+      }
+    ],
+    "branch": null,
+    "saved": 6005.152677507625
+  }
+]

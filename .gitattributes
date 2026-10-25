@@ -1,0 +1,5 @@
+# 文本保持 LF；图片、字体和静态交付包按二进制存储。
+* text=auto eol=lf
+*.png binary
+*.woff2 binary
+*.zip binary

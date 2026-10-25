@@ -1,0 +1,14 @@
+{
+  "cases": 2250,
+  "landings": 2250,
+  "main": 1756,
+  "upper": 494,
+  "recovered": 1887,
+  "maxRecovery": 4,
+  "grades": {
+    "perfect": 2235,
+    "normal": 15
+  },
+  "failures": [],
+  "evidence": "formal-physics-no-obstacles-no-flips-no-rendering"
+}

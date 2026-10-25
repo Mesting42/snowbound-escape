@@ -1,0 +1,28 @@
+[
+  {
+    "ride": "bike",
+    "visibleMeshes": 36,
+    "triangles": 12120,
+    "passengers": [
+      "otter",
+      "yak",
+      "owl"
+    ],
+    "playerScale": 1,
+    "source": "offline-geometry-only",
+    "longitudinalLength": 4.649999976158142
+  },
+  {
+    "ride": "sail",
+    "visibleMeshes": 33,
+    "triangles": 11124,
+    "passengers": [
+      "otter",
+      "yak",
+      "owl"
+    ],
+    "playerScale": 1,
+    "source": "offline-geometry-only",
+    "longitudinalLength": 4.350000023841858
+  }
+]

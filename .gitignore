@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+*.log
+
+# 本地开发状态与原始工作区需求记录不属于公开源码。
+.impeccable/
+/docs/REQUIREMENTS.md
+.env
+.env.*
+!.env.example
+coverage/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
